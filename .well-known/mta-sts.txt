@@ -1,6 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mail.solarmora.com
-mx: *.solarmora.net
-mx: backupmx.solarmora.com
-max_age: 604800
+mx: *.aspmx.l.google.com
+max_age: 86400
